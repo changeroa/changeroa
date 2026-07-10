@@ -59,6 +59,16 @@ Collaboration   Open-source projects with practical impact
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=changeroa&bg_color=00000000&color=64748B&line=6366F1&point=818CF8&area=true&hide_border=true" alt="Contribution graph" />
 </div>
 
+## Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/changeroa/changeroa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/changeroa/changeroa/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/changeroa/changeroa/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 <div align="center">
