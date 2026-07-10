@@ -32,14 +32,6 @@ I’m a Seoul-based full-stack AI engineer focused on turning ambitious ideas in
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
-## Selected work
-
-| Project | What it is |
-| --- | --- |
-| [StyleGallery](https://github.com/changeroa/StyleGallery) | A curated collection of useful UI and design patterns. |
-| [Hent-ai](https://github.com/IYENTeam/Hent-ai) | Emotion-aware image attachments for AI agents on Discord. |
-| [blog-automation](https://github.com/Ark-Point/blog-automation) | Tooling to streamline content workflows. |
-
 ## Current focus
 
 ```text
